@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samiul1288
+- 👋 Hi, I’m @samiul
 - 👀 I’m interested in c++,html,css,javascript
 - 🌱 I’m currently learning css
 - 
