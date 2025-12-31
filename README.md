@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Samiul Haque Ruf
+### Frontend Developer | React | Next.js
 
-<!--
-**samiul1288/samiul1288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Location: Bogura, Rajshahi, Bangladesh  
+📧 Email: rufsamiul1288@gmail.com  
+📞 Contact: +8801XXXXXXXXX  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I am a passionate Frontend Developer focused on building responsive and user-friendly web applications.  
+I enjoy working with React and modern JavaScript frameworks.  
+Currently, I am improving my skills through real-world projects and assignments.
+
+---
+
+## 🚀 Current Activities
+- 🌱 Exploring Next.js
+- 💻 Working on a Tourism Website
+- 📚 Improving problem-solving skills
+
+---
+
+## 🧰 Skills
+**Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind  
+**Tools:** Git, GitHub, VS Code  
+
+---
+
+## 🌐 Social Links
+- LinkedIn: https://linkedin.com/in/yourname
+- GitHub: https://github.com/samiul1288
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=samiul1288&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiul1288&layout=compact)
