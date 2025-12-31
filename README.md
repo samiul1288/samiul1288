@@ -34,5 +34,9 @@ Currently, I am improving my skills through real-world projects and assignments.
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=samiul1288&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiul1288&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiul1288&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samiul1288&layout=compact&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=samiul1288)
