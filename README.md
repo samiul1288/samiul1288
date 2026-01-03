@@ -28,7 +28,7 @@ Currently, I am improving my skills through real-world projects and assignments.
 ---
 
 ## 🌐 Social Links
-- LinkedIn: https://linkedin.com/in/yourname
+- LinkedIn: https://linkedin.com/in/samiul1288
 - GitHub: https://github.com/samiul1288
 
 ---
