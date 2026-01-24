@@ -6,8 +6,7 @@
 📞 Contact: +8801846961288  
 
 ---
-![Banner](https://ibb.co.com/S7tjZ4rq
-)
+![Banner](https://ibb.co.com/S7tjZ4rq)
 
 ## 👨‍💻 About Me
 I am a passionate Frontend Developer focused on building responsive and user-friendly web applications.  
