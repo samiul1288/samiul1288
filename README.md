@@ -6,6 +6,8 @@
 📞 Contact: +8801846961288  
 
 ---
+![Banner](https://ibb.co.com/S7tjZ4rq
+)
 
 ## 👨‍💻 About Me
 I am a passionate Frontend Developer focused on building responsive and user-friendly web applications.  
@@ -35,8 +37,11 @@ Currently, I am improving my skills through real-world projects and assignments.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiul1288&show_icons=true&theme=default)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samiul1288&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiul1288&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=samiul1288&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiul1288&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=samiul1288&theme=default)
+</div>
+
