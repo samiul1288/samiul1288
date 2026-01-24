@@ -6,7 +6,7 @@
 📞 Contact: +8801846961288  
 
 ---
-![Banner](https://ibb.co.com/S7tjZ4rq)
+![Banner](https://i.ibb.co.com/gFS2cLVs/Chat-GPT-Image-Jan-24-2026-09-41-29-AM.png)
 
 ## 👨‍💻 About Me
 I am a passionate Frontend Developer focused on building responsive and user-friendly web applications.  
